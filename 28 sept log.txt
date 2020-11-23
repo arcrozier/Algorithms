@@ -1,0 +1,393 @@
+*************Results for 0:All*************
+Average Value
+[0.5, 4.7, 41.2, -15.0]
+7.850000000000001
+
+Average Value
+[17.5, -6.7, 15.0, 0.0, 7.1]
+6.58
+
+Range of Values
+[0.5, 4.7, 41.2, -15.0]
+0.0
+
+Range of Values
+[17.5, -6.7, 15.0, 0.0, 7.1]
+0.0
+
+Position of Maximum Value
+[0.5, 4.7, 41.2, -15.0]
+2
+
+Position of Maximum Value
+[17.5, -6.7, 15.0, 0.0, 7.1]
+0
+
+Party Greeting
+[]
+
+
+Party Greeting
+[Zelda]
+
+
+Party Greeting
+[Yancy, Zelda]
+
+
+Party Greeting
+[Xander, Yancy, Zelda]
+
+
+Party Greeting
+[Urkel, Willow, Xander, Yancy, Zelda]
+
+
+Season Calendar
+3 20
+Winter
+
+Season Calendar
+4 27
+Spring
+
+Sum of Digits
+1235
+0
+
+Sum of Digits
+-9874
+0
+
+Nth Fibonacci number
+1
+1
+
+Nth Fibonacci number
+10
+55
+
+Nth Fibonacci number
+30
+832040
+
+Reverse Last and First Names
+Jayapal, Pramila
+Pramila Jayapal
+
+Reverse Last and First Names
+McMorris Rodgers, Cathy
+Cathy McMorris Rodgers
+
+Reverse Last and First Names
+Larsen, Rick R
+Rick R Larsen
+
+Triangle Area Using Heron's Formula
+4.5 7.3 9.1
+0.0
+
+Triangle Area Using Heron's Formula
+5.8 12.7 6.1
+0.0
+
+Triangle Area Using Heron's Formula
+7.4 -2.0 6.3
+0.0
+
+Is Increasing Integer Array
+[-5, -2, 3, 7, 11]
+true
+
+Is Increasing Integer Array
+[-5, -2, -2, 5, 7]
+true
+
+Is Increasing Integer Array
+[-5, -2, 7, 3, 11]
+false
+
+Find String
+quick
+the quick brown fox jumps over the lazy dog
+4
+
+Find String
+QUICK
+the quick brown fox jumps over the lazy dog
+-1
+
+Find String
+1234
+the quick brown fox jumps over the lazy dog
+-1
+
+Find String
+wn fo
+the quick brown fox jumps over the lazy dog
+13
+
+Stacking Blocks
+3
+
+
+Stacking Blocks
+8
+
+
+Stacking Blocks
+12
+
+
+1D Array to 2D Array
+[1, 2, 3, 4, 5, 6]
+[]
+
+1D Array to 2D Array
+[1, 2, 3, 4, 5, 6, 7]
+[]
+
+1D Array to 2D Array
+[1, 2, 3, 4, 5, 6, 7]
+[]
+
+Merge Sorted Arrays
+[apple, eggplant, ICE CREAM, oAtMeal, udon]
+[beans, Carrots, Doritos, eggs, fRuit, GINGER]
+[apple, beans, Carrots, Doritos, eggplant, eggs, fRuit, GINGER, ICE CREAM, oAtMeal, udon]
+
+Merge Sorted Arrays
+[beans, Carrots, Doritos, eggs, fRuit, GINGER]
+[TACOS, vanilla, Watermelon, yam, Yogurt]
+[beans, Carrots, Doritos, eggs, fRuit, GINGER, TACOS, vanilla, Watermelon, yam, Yogurt]
+
+Merge Sorted Arrays
+[coconut, humus, kale, peas, pizza, wasabi]
+[apple, eggplant, ICE CREAM, oAtMeal, udon]
+[apple, coconut, eggplant, humus, ICE CREAM, kale, oAtMeal, peas, pizza, udon, wasabi]
+
+Merge Sorted Arrays
+[TACOS, vanilla, Watermelon, yam, Yogurt]
+[coconut, humus, kale, peas, pizza, wasabi]
+[coconut, humus, kale, peas, pizza, TACOS, vanilla, wasabi, Watermelon, yam, Yogurt]
+
+String Selection Sort Ignore Case
+[beans, Watermelon, yam, TACOS, kale, fRuit, wasabi, peas, coconut, pizza, Doritos, udon, vanilla, fudge, oreos, humus, oAtMeal, eggs, ICE CREAM, brownie, cookies, Carrots, GINGER, eggplant, apple pie, apple, Yogurt, doughnut, orange, LEMON]
+[beans, Watermelon, yam, TACOS, kale, fRuit, wasabi, peas, coconut, pizza, Doritos, udon, vanilla, fudge, oreos, humus, oAtMeal, eggs, ICE CREAM, brownie, cookies, Carrots, GINGER, eggplant, apple pie, apple, Yogurt, doughnut, orange, LEMON]
+
+String Selection Sort Ignore Case
+[Zelda, Yancy, Xander, Willow, Urkel]
+[Zelda, Yancy, Xander, Willow, Urkel]
+
+String Shuffler
+[apple, apple pie, beans, brownie, Carrots, coconut]
+[coconut, beans, apple pie, brownie, apple, Carrots]
+
+String Shuffler
+[ice cream, DORITIOS, doughnut, oreo, Fudge, popcorn]
+[popcorn, oreo, DORITIOS, doughnut, ice cream, Fudge]
+
+Tally Letters in String
+The quick brown fox jumped over the lazy dog
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Tally Letters in String
+apple, apple pie, beans, brownie, Carrots, coconut, cookies, Doritos, doughnut, eggplant, eggs, fRuit, fudge, GINGER, humus, ICE CREAM, kale, LEMON, oAtMeal, orange, oreos, peas, pizza, TACOS, udon, vanilla, wasabi, Watermelon, yam, Yogurt
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+List Unique Strings
+[ant, dog, CAT, bear, dog, cat, eagle]
+[]
+
+List Unique Strings
+[Elvis, Elvis, Prince, Adele, Eminem, Beyonce, Bono, Adele, Prince, Beyonce, Elvis, Rihanna]
+[]
+
+Generate 12 Days Song
+High School	teacher	[a partridge in a pear tree, gold stars, javelins, avocados, reflections, minutes for recess, book reports, t-tests, songs by Drake, hours of detention, homework problems, vocabuluary quizzes]
+On the 1st day of High School
+My teacher gave to me
+a partridge in a pear tree
+
+On the 2nd day of High School
+My teacher gave to me
+2 gold stars
+and a partridge in a pear tree
+
+On the 3rd day of High School
+My teacher gave to me
+3 javelins
+2 gold stars
+and a partridge in a pear tree
+
+On the 4th day of High School
+My teacher gave to me
+4 avocados
+3 javelins
+2 gold stars
+and a partridge in a pear tree
+
+On the 5th day of High School
+My teacher gave to me
+5 reflections
+4 avocados
+3 javelins
+2 gold stars
+and a partridge in a pear tree
+
+On the 6th day of High School
+My teacher gave to me
+6 minutes for recess
+5 reflections
+4 avocados
+3 javelins
+2 gold stars
+and a partridge in a pear tree
+
+On the 7th day of High School
+My teacher gave to me
+7 book reports
+6 minutes for recess
+5 reflections
+4 avocados
+3 javelins
+2 gold stars
+and a partridge in a pear tree
+
+On the 8th day of High School
+My teacher gave to me
+8 t-tests
+7 book reports
+6 minutes for recess
+5 reflections
+4 avocados
+3 javelins
+2 gold stars
+and a partridge in a pear tree
+
+On the 9th day of High School
+My teacher gave to me
+9 songs by Drake
+8 t-tests
+7 book reports
+6 minutes for recess
+5 reflections
+4 avocados
+3 javelins
+2 gold stars
+and a partridge in a pear tree
+
+On the 10th day of High School
+My teacher gave to me
+10 hours of detention
+9 songs by Drake
+8 t-tests
+7 book reports
+6 minutes for recess
+5 reflections
+4 avocados
+3 javelins
+2 gold stars
+and a partridge in a pear tree
+
+On the 11th day of High School
+My teacher gave to me
+11 homework problems
+10 hours of detention
+9 songs by Drake
+8 t-tests
+7 book reports
+6 minutes for recess
+5 reflections
+4 avocados
+3 javelins
+2 gold stars
+and a partridge in a pear tree
+
+On the 12th day of High School
+My teacher gave to me
+12 vocabuluary quizzes
+11 homework problems
+10 hours of detention
+9 songs by Drake
+8 t-tests
+7 book reports
+6 minutes for recess
+5 reflections
+4 avocados
+3 javelins
+2 gold stars
+and a partridge in a pear tree
+
+
+
+Add Binary Strings
+010101010101010
+000001111111111
+0101000101010101
+
+Add Binary Strings
+01010110101000001111
+00000000001111110000
+010101101000000000001
+
+File Word Count
+file1.txt
+1799
+
+File Word Count
+file2.txt
+855
+
+Integer Binary Search
+7
+[-5, -3, -1, 1, 3, 3, 5, 7, 9, 11, 13]
+7
+
+Integer Binary Search
+-8
+[-5, -3, -1, 1, 3, 3, 5, 7, 9, 11, 13]
+-1
+
+Integer Binary Search
+2
+[-5, -3, -1, 1, 3, 3, 5, 7, 9, 11, 13]
+-5
+
+Integer Binary Search
+17
+[-5, -3, -1, 1, 3, 3, 5, 7, 9, 11, 13]
+-11
+
+Greatest Common Divisor
+75 112
+1
+
+Greatest Common Divisor
+24 600
+24
+
+Greatest Common Divisor
+144 600
+24
+
+Half Collision
+365
+24
+
+Half Collision
+1000
+39
+
+Half Collision
+10000
+120
+
+Minesweeper Calc
+[[0, 1, 1, 0, 0, 0], [0, 0, 1, 0, 0, 0], [1, 0, 0, 1, 0, 0, 1], [0, 0, 0, 1, 1, 0], [0, 1, 0, 0, 1, 0], [0, 1, 0, 0, 1, 0], [0, 0, 1, 0, 0, 0]]
+[[1, -1, -1, 2, 0, 0], [2, 4, -1, 3, 1, 0], [-1, 2, 3, -1, 3, 1], [2, 2, 3, -1, -1, 2], [2, -1, 3, 4, -1, 3], [2, -1, 3, 3, -1, 2], [1, 2, -1, 2, 1, 1]]
+
+Minesweeper Calc
+[[0, 1, 1, 0, 0, 0, 1], [0, 0, 1, 0, 0, 0, 1], [1, 0, 0, 1, 0, 0, 1], [0, 0, 0, 1, 1, 0, 0], [0, 1, 0, 0, 1, 0, 1], [1, 0, 0, 0, 1, 0, 0]]
+[[1, -1, -1, 2, 0, 2, -1], [2, 4, -1, 3, 1, 3, -1], [-1, 2, 3, -1, 3, 3, -1], [2, 2, 3, -1, -1, 4, 2], [2, -1, 2, 4, -1, 4, -1], [-1, 2, 1, 2, -1, 3, 1]]
+
